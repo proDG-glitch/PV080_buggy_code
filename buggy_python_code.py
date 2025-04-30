@@ -2,7 +2,6 @@ import sys
 import os
 import yaml
 import flask
-import urllib.PoolManager
 
 app = flask.Flask(__name__)
 
